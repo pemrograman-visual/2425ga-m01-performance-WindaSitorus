@@ -6,7 +6,7 @@ import java.lang.Math;
 public class M01 {
     private static Scanner input = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {SS
         double performa;
         double nilai;
         double a, aB, b, bC, c, d, e;
